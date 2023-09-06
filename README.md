@@ -1,5 +1,5 @@
 # Deprecated
-Zwischenzeitlich wurde ich auf das [amtliche Verzeichnis](https://www.cadastre.ch/de/services/service/registry/plz.html) aufmerksam gemacht. Dieses Repo ist somit obsolet.
+Zwischenzeitlich wurde ich auf das [amtliche Verzeichnis](https://www.swisstopo.admin.ch/de/geodata/amtliche-verzeichnisse/ortschaftenverzeichnis.html) aufmerksam gemacht. Dieses Repo ist somit obsolet.
 
 # Liste PLZ, Ort, Gemeinde, Kanton
 
